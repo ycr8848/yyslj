@@ -1,0 +1,7 @@
+{
+  "name": "山东省高等学历继续教育学士学位英语考务系统",
+  "description": "A comprehensive examination management system following a specific enrollment and certification workflow, with a high-fidelity login UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
